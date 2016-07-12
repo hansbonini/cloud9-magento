@@ -11,7 +11,7 @@
 ### Instructions 
 1. Start your workspace
 2. Click on Run Project
-3. Preview
+3. Open http://workspace.user.c9users.io/ (Remember http not https)
 4. Enjoy ;)
 
 ### Hint
