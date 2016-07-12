@@ -50,13 +50,14 @@
         "configs": {
             "@inited": true,
             "json()": {
-                "Apache & PHP": {
+                "Magento": {
                     "command": "",
                     "debug": false,
                     "default": true,
                     "env": {},
-                    "name": "Apache & PHP",
-                    "runner": "Apache httpd (PHP, HTML)",
+                    "name": "Magento",
+                    "runner": "Start Magento with Apache httpd (PHP, 
+HTML)",
                     "toolbar": true,
                     "url": "http://$hostname/"
                 }
