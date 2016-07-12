@@ -17,6 +17,7 @@
 ### Hint
 If you want to open direct on www folder, do this:
 > sudo nano /etc/apache2/sites-enabled/001-cloud9.conf
+
 And change DocumentRoot to:
 > DocumentRoot /home/ubuntu/workspace/www
 
