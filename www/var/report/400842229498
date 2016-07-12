@@ -1,9 +1,0 @@
-a:5:{i:0;s:94:"Cannot send headers; headers already sent in /home/ubuntu/workspace/www/app/Mage.php, line 775";i:1;s:1021:"#0 /home/ubuntu/workspace/www/lib/Zend/Controller/Response/Abstract.php(115): Zend_Controller_Response_Abstract->canSendHeaders(true)
-#1 /home/ubuntu/workspace/www/app/code/core/Mage/Core/Model/App.php(1265): Zend_Controller_Response_Abstract->setHeader('Content-Type', 'text/html; char...')
-#2 /home/ubuntu/workspace/www/app/code/core/Mage/Core/Controller/Varien/Front.php(80): Mage_Core_Model_App->getResponse()
-#3 /home/ubuntu/workspace/www/app/code/core/Mage/Core/Controller/Varien/Router/Standard.php(202): Mage_Core_Controller_Varien_Front->getResponse()
-#4 /home/ubuntu/workspace/www/app/code/core/Mage/Core/Controller/Varien/Front.php(172): Mage_Core_Controller_Varien_Router_Standard->match(Object(Mage_Core_Controller_Request_Http))
-#5 /home/ubuntu/workspace/www/app/code/core/Mage/Core/Model/App.php(365): Mage_Core_Controller_Varien_Front->dispatch()
-#6 /home/ubuntu/workspace/www/app/Mage.php(692): Mage_Core_Model_App->run(Array)
-#7 /home/ubuntu/workspace/www/index.php(83): Mage::run('', 'store')
-#8 {main}";s:3:"url";s:1:"/";s:11:"script_name";s:10:"/index.php";s:4:"skin";s:7:"default";}
