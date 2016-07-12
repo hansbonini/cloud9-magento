@@ -1,0 +1,10 @@
+[
+    {
+        "packageName": "rossigee\/config-envvars",
+        "version": "1.0.3.0-57aad82ecd2c68116bedd8ff109a5d31f43e8768",
+        "installedFiles": [
+            "\/app\/code\/local\/Mage\/Core\/Model\/Config\/Base.php",
+            "\/app\/code\/local\/Rossigee\/Core\/Model\/Config\/Element.php"
+        ]
+    }
+]

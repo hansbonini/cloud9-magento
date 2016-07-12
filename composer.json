@@ -1,0 +1,20 @@
+{
+    "repositories": [
+      {
+        "type" : "git",
+        "url" : "https://github.com/rossigee/magento-config-envvars.git"
+      }
+    ],
+    "require": {
+      "magento-hackathon/magento-composer-installer": "~3.0",
+      "aydin-hassan/magento-core-composer-installer": "~1.2",
+      "firegento/magento": "~1.9.2",
+      "rossigee/config-envvars" : "*"
+    },
+    "extra": {
+      "magento-root-dir": "www",
+      "auto-append-gitignore": true,
+      "magento-deploystrategy": "copy",
+      "magento-force": true
+    }
+}
